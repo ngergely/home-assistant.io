@@ -39,7 +39,7 @@ The UniFi controller allows you to create multiple users on it besides the main 
 
 ### UniFi OS
 
-For UniFi OS a local-only user needs to be created. A user who uses the Ubiquiti cloud will not work. You can do this in the manage users section on the UniFi OS dashboard. Make sure to give it the right permissions for the functions you want to use. 
+For UniFi OS a local-only user needs to be created. A user who uses the Ubiquiti cloud will not work. You can do this in the manage users section on the UniFi OS dashboard. Make sure to give it the right permissions for the functions you want to use.  When logging in, ensure that you use port 443 instead of the default 8443. 
 
 ### Conflicts with MQTT
 
